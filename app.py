@@ -8,7 +8,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 load_dotenv()
 
 # Configure Gemini API
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 # Prompt
 prompt = """
