@@ -24,7 +24,7 @@ The application extracts transcripts from YouTube videos and generates concise A
 - Streamlit
 - Groq API
 - YouTube Transcript API
-- dotenv
+
 
 ---
 
