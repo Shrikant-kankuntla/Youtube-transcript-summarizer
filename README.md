@@ -35,6 +35,5 @@ youtube-ai-summarizer/
 │
 ├── app.py
 ├── requirements.txt
-├── .env
 ├── .gitignore
 └── README.md
